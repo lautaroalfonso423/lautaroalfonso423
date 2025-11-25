@@ -36,7 +36,7 @@
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  Mis habilidades
 
-### Back-end Developer 
+### ⚙️ Back-end Developer 
 
 <p align="center"> 
   &emsp; 
@@ -51,7 +51,7 @@
 	<a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white"></a>
 </p>
 
-###  Front-end
+### 🎨 Frontend
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -90,7 +90,7 @@
 </p>
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> 🛠️ Herramientas BD
+ ### 🛠️ Herramientas BD
  
 <p align="center">
   &emsp;
@@ -100,7 +100,7 @@
 </p>
 
 
-###  🔧 Desarrollo
+### 🔧 Desarrollo
  
 <p align="center">
   &emsp;
@@ -119,7 +119,7 @@
 	<a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-8A2BE2?style=plastic&logo=visualstudiocode&logoColor=white"></a>	
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### 🐧 Sistema Operativo 
  
 <p align="center">
   &emsp;
