@@ -56,35 +56,23 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 - **Bases de Datos**
-
-  ![](https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+  
   ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
- - **Herramientas BD** 
-
+ - **Herramientas BD**
+   
   ![](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
   ![](https://img.shields.io/badge/Adminer-34567C?style=for-the-badge&logo=adminer&logoColor=white)
 
 - **Desarrollo**
  
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white"></a>
-  &emsp;
-	<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-	<a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
-  &emsp;
-	<a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-8A2BE2?style=plastic&logo=visualstudiocode&logoColor=white"></a>	
-</p>
+  ![](https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![](https://img.shields.io/badge/Visual%20Studio%20Code-8A2BE2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
  - **Sistema Operativo**  
  
