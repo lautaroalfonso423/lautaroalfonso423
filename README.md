@@ -46,32 +46,15 @@
 	![NestJS](https://img.shields.io/badge/NestJS%20-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 - **Front-End**:
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React%20-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://nextjs.org/" target="_blank">
-    <img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%23000000.svg?style=plastic&logo=nextdotjs&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS%20-%2306B6D4.svg?style=plastic&logo=tailwindcss&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  </a>
-</p>
+
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+  ![](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS%20-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 
 - **Bases de Datos**
  
