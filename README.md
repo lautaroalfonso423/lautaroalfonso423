@@ -36,7 +36,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Mis Habilidades</b>
 
-### ⚙️ Back-end Developer 
+- **Back-end Developer**:
 
 <p align="center"> 
   &emsp; 
@@ -76,7 +76,7 @@
 	
 </p>
 
- ### 🗄️ Bases de Datos
+- **Bases de Datos**
  
 <p align="center">
   &emsp;
@@ -90,7 +90,7 @@
 </p>
 
 
- ### 🛠️ Herramientas BD
+ - **Herramientas BD** 
  
 <p align="center">
   &emsp;
@@ -100,7 +100,7 @@
 </p>
 
 
-### 🔧 Desarrollo
+- **Desarrollo**
  
 <p align="center">
   &emsp;
@@ -119,7 +119,7 @@
 	<a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-8A2BE2?style=plastic&logo=visualstudiocode&logoColor=white"></a>	
 </p>
 
- ### 🐧 Sistema Operativo 
+ - **Sistema Operativo**  
  
 <p align="center">
   &emsp;
