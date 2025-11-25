@@ -40,10 +40,11 @@
 <p align="center">
 
 - **Back-end Developer**:
-  	![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-	![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-	![Express](https://img.shields.io/badge/Express%20-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-	![NestJS](https://img.shields.io/badge/NestJS%20-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express%20-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS%20-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 - **Front-End**:
 
@@ -53,8 +54,6 @@
   ![](https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS%20-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-
 
 - **Bases de Datos**
  
