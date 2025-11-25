@@ -121,8 +121,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=7oSkaaa&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
-
+[![trophies](https://github-profile-trophies.vercel.app/?username=lautaroalfonso423&theme=dracula)](https://github.com/ryo-ma/github-profile-trophies)
  
 </details>
 
