@@ -51,7 +51,7 @@
 	<a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white"></a>
 </p>
 
-### 🎨 Frontend
+- **Front-End**:
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
