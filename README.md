@@ -103,19 +103,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lautaroalfonso423&theme=tokyonight_duo" alt="lautaroalfonso423" /></p>
 
 </details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
----
-
-<p align="center">
-    <a href="https://github.com/lautaroalfonso423">
-        <img alt="lautaroalfonso423's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lautaroalfonso423&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lautaroalfonso423&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="lautaroalfonso423" height="230px"/>
-</p>
-
-</details>
 
 <details><summary><h3>:trophy: Git profile Trophies </h3></summary>
 
