@@ -36,7 +36,7 @@
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  Mis habilidades
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Back-end Developer 
+### Back-end Developer 
 
 <p align="center"> 
   &emsp; 
@@ -51,7 +51,7 @@
 	<a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white"></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Front-end
+###  Front-end
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -76,7 +76,7 @@
 	
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> 🗄️ Bases de Datos
+ ### 🗄️ Bases de Datos
  
 <p align="center">
   &emsp;
@@ -100,7 +100,7 @@
 </p>
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> 🔧 Desarrollo
+###  🔧 Desarrollo
  
 <p align="center">
   &emsp;
