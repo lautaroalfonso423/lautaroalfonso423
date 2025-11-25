@@ -37,19 +37,14 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Mis Habilidades</b>
 
 - **Back-end Developer**:
-
-<p align="center"> 
-  &emsp; 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-  &emsp;
   	<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white"></a>
-  &emsp;
+  
 	<a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white"></a>
-  &emsp;
+
 	<a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white"></a>
-</p>
 
 - **Front-End**:
 <p align="center"> 
