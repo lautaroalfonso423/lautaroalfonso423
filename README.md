@@ -119,19 +119,19 @@
 <div>
   <p align="center">    <a href="https://github.com/lautaroalfonso423/Train-X">
 	  <a href="https://github.com/lautaroalfonso423/Train-X">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lautaroalfonso423&repo=Train-X&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lautaroalfonso423&repo=Train-X&theme=tokyonight" alt="Train-X" />
     </a>
 	   <a href="https://github.com/lautaroalfonso423/Proyecto-1-">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lautaroalfonso423&repo=Train-X&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lautaroalfonso423&repo=Train-X&theme=tokyonight" alt="Proyecto 1" />
     </a>
 	   <a href="https://github.com/lautaroalfonso423/Aplicaci-n-de-Barberia-">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lautaroalfonso423&repo=Train-X&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lautaroalfonso423&repo=Train-X&theme=tokyonight" alt="Aplicacion de Barberia" />
     </a>
 	   <a href="https://github.com/lautaroalfonso423/Aplicaci-n-de-Pel-culas">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lautaroalfonso423&repo=Train-X&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lautaroalfonso423&repo=Train-X&theme=tokyonight" alt="Movies" />
     </a>
 	   <a href="https://github.com/lautaroalfonso423/E-commerce">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lautaroalfonso423&repo=Train-X&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lautaroalfonso423&repo=Train-X&theme=tokyonight" alt="E-commerce" />
     </a>
 </p>
 </div>
