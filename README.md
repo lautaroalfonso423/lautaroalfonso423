@@ -89,6 +89,10 @@
 	<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white"></a>
 </p>
 
+### 🛠️ Herramientas BD
+<a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-372923?style=plastic&logo=dbeaver&logoColor=white"></a>
+<a href="#"><img alt="Adminer" src="https://img.shields.io/badge/Adminer-34567C?style=plastic&logo=adminer&logoColor=white"></a>
+
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
@@ -97,8 +101,10 @@
   &emsp;
 	<a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
   &emsp;
-	<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-8A2BE2?style=plastic&logo=visualstudiocode&logoColor=white"></a>
+	<a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio%20Code-8A2BE2?style=plastic&logo=visualstudiocode&logoColor=white"></a>
 </p>
+
+
 
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
