@@ -114,6 +114,7 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lautaroalfonso423&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="lautaroalfonso423" height="230px"/>
 <br/>
 </p>
+
 </details>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
