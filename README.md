@@ -94,9 +94,9 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 		
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de Github </b>
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<details><summary><h3> 🔥 Estadísticas de racha</h3></summary>
 
 ----	
 
@@ -104,7 +104,7 @@
 
 </details>
 
-<details><summary><h3>:trophy: Git profile Trophies </h3></summary>
+<details><summary><h3>:trophy: Trofeos de perfil de Git </h3></summary>
 
 ----
 	
@@ -112,7 +112,7 @@
  
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<details><summary><h3> :open_file_folder: Mis repositorios </h3></summary>
 
 ----
 	
