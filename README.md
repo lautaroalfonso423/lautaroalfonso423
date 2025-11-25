@@ -117,23 +117,10 @@
 ----
 	
 <div>
-  <p align="center">
-    <a href="https://github.com/lautaroalfonso423/Train-X">
+  <p align="center">    <a href="https://github.com/lautaroalfonso423/Train-X">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lautaroalfonso423&repo=Train-X&theme=tokyonight" alt="Train-X Pin" />
     </a>
-    <a href="https://github.com/lautaroalfonso423/E-commerce">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lautaroalfonso423&repo=E-commerce&theme=tokyonight" alt="E-commerce Pin" />
-    </a>
-    <a href="https://github.com/lautaroalfonso423/Aplicaci-n-de-Barberia-">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lautaroalfonso423&repo=Aplicaci-n-de-Barberia-&theme=tokyonight" alt="Aplicación de Barbería Pin" />
-    </a>
-    <a href="https://github.com/lautaroalfonso423/Aplicaci-n-de-Pel-culas">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lautaroalfonso423&repo=Aplicaci-n-de-Pel-culas&theme=tokyonight" alt="Aplicación de Películas Pin" />
-    </a>
-    <a href="https://github.com/lautaroalfonso423/Proyecto-1-">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lautaroalfonso423&repo=Proyecto-1-&theme=tokyonight" alt="Proyecto 1 Pin" />
-    </a>
-  </p>
+</p>
 </div>
 </details>
 
