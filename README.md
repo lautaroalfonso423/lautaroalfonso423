@@ -20,9 +20,9 @@
 </p>
 
 	
-## <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="50px"> About me
+## 🚀 Sobre mí
 
-<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250px">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWlodmUyN3J5bWZ2Z2J0c3V4dGQ0eGx6a2l4eGJldjBqZ2V6bGZ0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="250px">
 
 <br><br>
 
