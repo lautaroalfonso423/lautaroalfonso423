@@ -66,6 +66,8 @@
    
    ![](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
    ![](https://img.shields.io/badge/Adminer-34567C?style=for-the-badge&logo=adminer&logoColor=white)
+   ![](https://img.shields.io/badge/HTTPie-3687E3?style=for-the-badge&logo=httpie&logoColor=white)
+   ![](https://img.shields.io/badge/Insomnia-4000AA?style=for-the-badge&logo=insomnia&logoColor=white)
 
 - **Desarrollo**
  
