@@ -22,7 +22,7 @@
 - :technologist: Me encanta usar el `Software` como solución para cada `Problema`.
 - :student: Actualmente aprendiendo `Desarrollo Web`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
-- :thinking: Actualmente estoy abierto a nuevas `oportunidades laborales`, este es [MI CURRÍCULUM](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: Actualmente estoy abierto a nuevas `oportunidades laborales`, este es [MI CURRÍCULUM](file:///C:/Users/Usuario/OneDrive/Documentos/CV%20Henry%20-%20Template%20(1).pdf).
 <br>
 
 
