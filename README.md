@@ -129,9 +129,13 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=lautaroalfonso423&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="lautaroalfonso423" />
+    </a> 
+</p>
 
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
+[![@lautaroalfonso423's Holopin board](https://holopin.io/api/user/board?user=lautaroalfonso423)](https://holopin.io/@lautaroalfonso423)
 	
 </details>
 	
