@@ -117,26 +117,12 @@
 
 </details>
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+<details><summary><h3>:trophy: Git profile Trophies </h3></summary>
 
 ----
 	
 [![trophies](https://github-profile-trophies.vercel.app/?username=lautaroalfonso423&theme=dracula)](https://github.com/ryo-ma/github-profile-trophies)
  
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=lautaroalfonso423&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="lautaroalfonso423" />
-    </a> 
-</p>
-
-[![@lautaroalfonso423's Holopin board](https://holopin.io/api/user/board?user=lautaroalfonso423)](https://holopin.io/@lautaroalfonso423)
-	
 </details>
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
