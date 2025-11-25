@@ -122,7 +122,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="50px"></picture> Competitive Programming & Problem Solving
+ ### <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/CP_PS.gif" width="50px"> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
